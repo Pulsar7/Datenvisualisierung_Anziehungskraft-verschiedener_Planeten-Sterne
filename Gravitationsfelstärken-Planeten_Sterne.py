@@ -68,7 +68,7 @@ def berechnen():
 if __name__ == '__main__':
     x = os.system("cls") #Windows -default
     sp("Daten werden berechnet..")
-    get_data('daten.00175')
+    get_data('daten.txt')
     try:
         berechnen()
         print("ABGESCHLOSSEN")
