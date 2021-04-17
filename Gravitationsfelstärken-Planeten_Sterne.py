@@ -1,3 +1,12 @@
+#
+#	Author: Pulsar
+#	YouTube: https://www.youtube.com/channel/UCVo0vjlE50dn2LFynrGe9yA
+# 	GitHub: https://www.github.com/Woodnet
+# 	Twitter: https://twitter.com/7Pulsar
+#	Python-Version: Python 3.8.2
+#   Website: https://mein-wissen.herokuapp.com
+#	--> Please write a comment on GitHub-issues.
+#
 import os,sys
 import decimal
 import matplotlib.pyplot as plt
