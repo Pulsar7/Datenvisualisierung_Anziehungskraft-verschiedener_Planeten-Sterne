@@ -1,0 +1,10 @@
+Sonne:{Masse=1.9890000000000002e+30,Radius=696340}
+Erde:{Masse=5.972e+24,Radius=6371}
+Erdmond:{Masse=7.349e+22,Radius=1737.1}
+Merkur:{Masse=3.285e+23,Radius=2439.7}
+Venus:{Masse=4.867e+24,Radius=6051.8}
+Saturn:{Masse=5.683e+26,Radius=58232}
+Jupiter:{Masse=1.898e+27,Radius=69911}
+Neptun:{Masse=1.024e+26,Radius=24622}
+Uranus:{Masse=8.681e+25,Radius=25362}
+Pluto:{Masse=1.305e+22,Radius=1188.3}
